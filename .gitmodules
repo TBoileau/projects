@@ -1,0 +1,30 @@
+[submodule "src/besoin-d-un-job"]
+	path = src/besoin-d-un-job
+	url = git@github.com:TBoileau/besoin-d-un-job.git
+[submodule "src/blog"]
+	path = src/blog
+	url = git@github.com:TBoileau/blog.git
+[submodule "src/code-challenge"]
+	path = src/code-challenge
+	url = git@github.com:TBoileau/code-challenge.git
+[submodule "src/cupidon-api"]
+	path = src/cupidon-api
+	url = git@github.com:TBoileau/cupidon-api.git
+[submodule "src/key-privilege"]
+	path = src/key-privilege
+	url = git@github.com:TBoileau/key-privilege.git
+[submodule "src/portfolio"]
+	path = src/portfolio
+	url = git@github.com:TBoileau/portfolio.git
+[submodule "src/producteur-au-consommateur"]
+	path = src/producteur-au-consommateur
+	url = git@github.com:TBoileau/producteur-au-consommateur.git
+[submodule "src/smelly-code"]
+	path = src/smelly-code
+	url = git@github.com:TBoileau/smelly-code.git
+[submodule "src/social-network-api"]
+	path = src/social-network-api
+	url = git@github.com:TBoileau/social-network-api.git
+[submodule "src/twitch"]
+	path = src/twitch
+	url = git@github.com:TBoileau/twitch.git
