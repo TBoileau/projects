@@ -25,6 +25,3 @@
 [submodule "src/social-network-api"]
 	path = src/social-network-api
 	url = git@github.com:TBoileau/social-network-api.git
-[submodule "src/toham.dev"]
-	path = src/toham.dev
-	url = git@github.com:TBoileau/toham.dev.git
